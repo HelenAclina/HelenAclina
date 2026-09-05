@@ -1,47 +1,52 @@
-# Olá, eu sou a Helen Aclina 👋
+# Helen Aclina
 
-🎓 Estudante de **Desenvolvimento de Software Multiplataforma** (Fatec Mauá) e técnica em **Desenvolvimento de Sistemas** (ETEC)
-📍 São Paulo, SP — Brasil
-💼 Em busca de oportunidades como desenvolvedora (júnior/estágio)
+**Desenvolvimento de software · Dados · Automação**
 
-## 🚀 Sobre mim
+São Paulo, SP · Brasil
 
-Gosto de transformar problemas do dia a dia em soluções funcionais. Venho estudando
-desenvolvimento web (PHP, JavaScript, MySQL) e Java com orientação a objetos,
-construindo projetos práticos junto à graduação.
+<img src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='720'%20height='3'%3E%3Cdefs%3E%3ClinearGradient%20id='g'%20x1='0'%20x2='1'%3E%3Cstop%20offset='0'%20stop-color='%23DB2777'/%3E%3Cstop%20offset='1'%20stop-color='%237C3AED'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width='720'%20height='3'%20fill='url(%23g)'/%3E%3C/svg%3E" alt="" width="100%" height="3"/>
 
-## 🛠️ Tecnologias & Ferramentas
+Estudante de **Desenvolvimento de Software Multiplataforma** (Fatec Mauá) e técnica em **Desenvolvimento de Sistemas** (ETEC). Estudo **backend, bancos de dados relacionais e automação de processos**, com interesse crescente em dados e IA.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+Em busca de **estágio** em desenvolvimento de software, dados, automação ou áreas afins.
 
-## 📌 Projetos em destaque
+## Formação
 
-| Projeto | Descrição | Stack |
+- **Desenvolvimento de Software Multiplataforma** (tecnólogo) — Fatec Mauá — em andamento
+- **Desenvolvimento de Sistemas** (técnico) — ETEC
+
+## Tecnologias
+
+**Linguagens:** `Java` · `PHP` · `C#` · `JavaScript` · `SQL` · *em estudo: `Python`, `Dart`*
+
+**Frameworks e bibliotecas:** *em estudo:* `Node.js` · `React` · `Flutter` · `Pandas`
+
+**Banco de dados:** `MySQL` · *em estudo: `Redis`*
+
+**Ferramentas e plataformas:** `Git` · `GitHub` · `Power BI` · `Power Automate` · `Power Apps` · `Figma` · `SharePoint` · `n8n`
+
+*As linguagens aplicadas em projetos públicos aparecem nos repositórios abaixo; as demais estão em fase de estudo.*
+
+## Projetos
+
+| Projeto | Sobre | Stack |
 |---|---|---|
-| 🐾 [PetClean](https://github.com/HelenAclina/PHP/tree/main/PetClean) | Site de serviços para pet shop com catálogo e agendamento | HTML, CSS, JS, PHP |
-| 📦 [SistemaDeProdutos](https://github.com/HelenAclina/PHP/tree/main/SistemaDeProdutos) | Cadastro e gerenciamento de produtos | PHP, MySQL |
-| 🗄️ [bancoDeDadosRelacional](https://github.com/HelenAclina/bancoDeDadosRelacional) | Modelagem relacional e SQL (ex.: petshop) | SQL, MySQL |
+| **[PetClean](https://github.com/HelenAclina/petclean)** | Sistema de gerenciamento para pet shop — clientes, pets, serviços e agendamentos em aplicação de página única | JavaScript, HTML, CSS |
+| **[Sistema de Produtos](https://github.com/HelenAclina/sistema-de-produtos)** | Controle de estoque e vendas com validações server-side e consultas com JOIN | PHP, MySQL |
+| **[Modelagem pet shop](https://github.com/HelenAclina/bancoDeDadosRelacional)** | Modelagem relacional com integridade referencial, JOINs e consultas analíticas | SQL |
 
-## 📊 Estatísticas
+## Interesses
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HelenAclina&show_icons=true&locale=pt_br&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HelenAclina&locale=pt_br&layout=compact&theme=transparent&hide=html)
+- Desenvolvimento backend e APIs
+- Análise de dados — SQL, Python/Pandas, Power BI
+- Automação de processos — Power Platform, n8n
+- IA aplicada a produtos e processos
 
-## 📫 Vamos conversar?
+## Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO-AQUI)
-[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:SEU-EMAIL-AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DB2777?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-PERFIL-AQUI)
+[![E-mail](https://img.shields.io/badge/E--mail-7C3AED?style=flat-square&logo=maildotru&logoColor=white)](mailto:SEU-EMAIL-AQUI)
 
 <!--
-  ✏️ ANTES DE PUBLICAR:
-  1. Troque SEU-USUARIO-AQUI pelo seu usuário do LinkedIn
-  2. Troque SEU-EMAIL-AQUI pelo seu e-mail de contato
-  3. Se criar o repo próprio do PetClean, atualize os links da tabela acima
+  ✏️ PENDENTE: substituir SEU-PERFIL-AQUI e SEU-EMAIL-AQUI
 -->
